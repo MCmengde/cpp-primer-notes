@@ -11,9 +11,9 @@ My reading notes of c++ primer 5th edition
   - [Chapter 4. Expressions](./chp4-expressions/README.md)
   - [Chapter 5. Statements](./chp5-statements/README.md)
   - [Chapter 6. Functions](./chp6-functions/README.md)
-  - Chapter 7. Classes
-  - Chapter 8. The IO Library
+  - [Chapter 7. Classes](./chp7-classes/README.md)
 - Part 2: The C++ library
+  - Chapter 8. The IO Library
   - Chapter 9. Sequential Containers
   - Chapter 10. Generic Algorithms
   - Chapter 11. Associative Containers
